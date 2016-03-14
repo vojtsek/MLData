@@ -10,5 +10,5 @@ explored, namely Czech(Cs), English(En) and German(Ge).
 
 Note that languages are not equally frequent in the dataset.
 
-The files *\*\_biased0p.csv* contains modified vectors, where values were
+The files *_biased0p.csv contains modified vectors, where values were
 randomly substituted by question marks in *p* percent of cases.
