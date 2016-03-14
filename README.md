@@ -1,4 +1,4 @@
-# Characters' frequention in wikipedia articles
+# Characters' frequency in wikipedia articles
 This sample dataset contains two sets of equal size - 5400 feature vectors.
 
 The files are in the *.csv* format. Each vector contains 26 features
